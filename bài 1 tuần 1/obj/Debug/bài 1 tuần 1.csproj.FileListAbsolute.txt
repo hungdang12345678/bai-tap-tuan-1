@@ -1,0 +1,8 @@
+D:\code 3\bài 1 tuần 1\obj\Debug\bài 1 tuần 1.csproj.AssemblyReference.cache
+D:\code 3\bài 1 tuần 1\obj\Debug\bài 1 tuần 1.csproj.CoreCompileInputs.cache
+D:\code 3\bài 1 tuần 1\bin\Debug\bài 1 tuần 1.exe.config
+D:\code 3\bài 1 tuần 1\bin\Debug\bài 1 tuần 1.exe
+D:\code 3\bài 1 tuần 1\bin\Debug\bài 1 tuần 1.pdb
+D:\code 3\bài 1 tuần 1\obj\Debug\bài 1 tuần 1.exe
+D:\code 3\bài 1 tuần 1\obj\Debug\bài 1 tuần 1.pdb
+D:\code 3\bài 1 tuần 1\obj\Debug\bài 1 tuần 1.exe.config
