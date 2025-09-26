@@ -1,0 +1,7 @@
+D:\code 3\bai2tuan1\bin\Debug\bai2tuan1.exe.config
+D:\code 3\bai2tuan1\bin\Debug\bai2tuan1.exe
+D:\code 3\bai2tuan1\bin\Debug\bai2tuan1.pdb
+D:\code 3\bai2tuan1\obj\Debug\bai2tuan1.csproj.AssemblyReference.cache
+D:\code 3\bai2tuan1\obj\Debug\bai2tuan1.csproj.CoreCompileInputs.cache
+D:\code 3\bai2tuan1\obj\Debug\bai2tuan1.exe
+D:\code 3\bai2tuan1\obj\Debug\bai2tuan1.pdb
