@@ -1,0 +1,11 @@
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.csproj.AssemblyReference.cache
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.Form1.resources
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.Properties.Resources.resources
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.csproj.GenerateResource.cache
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.csproj.CoreCompileInputs.cache
+D:\code 3\bai4tttl\bin\Debug\bai4tttl.exe.config
+D:\code 3\bai4tttl\bin\Debug\bai4tttl.exe
+D:\code 3\bai4tttl\bin\Debug\bai4tttl.pdb
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.exe
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.pdb
+D:\code 3\bai4tttl\obj\Debug\bai4tttl.exe.config
