@@ -1,0 +1,10 @@
+D:\code 3\bai3tttl\bin\Debug\bai3tttl.exe.config
+D:\code 3\bai3tttl\bin\Debug\bai3tttl.exe
+D:\code 3\bai3tttl\bin\Debug\bai3tttl.pdb
+D:\code 3\bai3tttl\obj\Debug\bai3tttl.csproj.AssemblyReference.cache
+D:\code 3\bai3tttl\obj\Debug\bai3tttl.Form1.resources
+D:\code 3\bai3tttl\obj\Debug\bai3tttl.Properties.Resources.resources
+D:\code 3\bai3tttl\obj\Debug\bai3tttl.csproj.GenerateResource.cache
+D:\code 3\bai3tttl\obj\Debug\bai3tttl.csproj.CoreCompileInputs.cache
+D:\code 3\bai3tttl\obj\Debug\bai3tttl.exe
+D:\code 3\bai3tttl\obj\Debug\bai3tttl.pdb
