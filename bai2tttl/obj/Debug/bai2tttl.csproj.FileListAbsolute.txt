@@ -1,0 +1,10 @@
+D:\code 3\bai2tttl\obj\Debug\bai2tttl.csproj.AssemblyReference.cache
+D:\code 3\bai2tttl\obj\Debug\bai2tttl.FrmBai2.resources
+D:\code 3\bai2tttl\obj\Debug\bai2tttl.Properties.Resources.resources
+D:\code 3\bai2tttl\obj\Debug\bai2tttl.csproj.GenerateResource.cache
+D:\code 3\bai2tttl\obj\Debug\bai2tttl.csproj.CoreCompileInputs.cache
+D:\code 3\bai2tttl\bin\Debug\bai2tttl.exe.config
+D:\code 3\bai2tttl\bin\Debug\bai2tttl.exe
+D:\code 3\bai2tttl\bin\Debug\bai2tttl.pdb
+D:\code 3\bai2tttl\obj\Debug\bai2tttl.exe
+D:\code 3\bai2tttl\obj\Debug\bai2tttl.pdb
